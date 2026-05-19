@@ -8,7 +8,7 @@ Genera cientos de miles de escenarios futuros posibles basados en datos historic
 
 ## Como usarlo
 
-1. Abre el notebook en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/monte-carlo-sim/blob/main/monte_carlo.ipynb)
+1. Abre el notebook en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l2ho1Cb4K6htZMv0CmTWM3teaZ_Fy_or?usp=sharing)
 2. Activa la GPU: Entorno de ejecucion > Cambiar tipo de entorno > GPU
 3. Corre todas las celdas en orden
 
